@@ -19,6 +19,6 @@ I am a beginner coder who codes as a side-hobby.
 
 
 # Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&show_icons=true&theme=dracula&border_radius=12">
+<img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&show_icons=true&border_radius=12">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashondiscord&layout=compact&theme=dracula&show_icons=true&border_radius=12">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashondiscord&layout=compact&border_radius=12">
