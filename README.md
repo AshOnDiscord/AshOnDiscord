@@ -11,7 +11,14 @@ I am a beginner coder who codes as a side-hobby.
 
 - ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="18" height="18"> HTML [Intermediate]
 
+# Contatct
+- <a href=ASH#9555>Discord<a>
+- <a href="https://www.youtube.com/channel/UC9ZG0ecrPu7BnoI1zlAaleQ">Youtube<a>
+- <a href="https://www.reddit.com/user/Ashdubh_2nd">Reddit<a>
+- <a href="https://www.twitch.tv/AshOnDiscord">Twitch<a>
+
+
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&show_icons=true&theme=dracula&border_radius=12">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&show_icons=true&border_radius=12">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashondiscord&layout=compact&theme=dracula&show_icons=true&border_radius=12">
