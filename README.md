@@ -7,7 +7,7 @@ I am a beginner coder who codes as a side-hobby.
 
 - ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="18" height="18"> Python [Beginner]
 
-- ### <img src="https://u.cubeupload.com/AshOnDiscord/CSS3logoandwordmarks.png" width="18" height="18"> CSS [Intermediate]
+- ### <img src="https://u.cubeupload.com/AshOnDiscord/css3.png" width="18" height="18"> CSS [Intermediate]
 
 - ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="18" height="18"> HTML [Intermediate]
 
