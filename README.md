@@ -1,5 +1,5 @@
 # About
-Hi I'm @AshOnDiscord, I go by Ash.  
+Hi I'm @AshOnDiscord, I mainly go by Ash.  
 I am a coder(mainly front-end) who codes as a side-hobby.
 
 # Languages and Tools Learned:
@@ -20,7 +20,7 @@ I am a coder(mainly front-end) who codes as a side-hobby.
 # Contact
 - [Discord](HoverDontClick "Ash#4999")
 - <a href="https://www.youtube.com/channel/UC9ZG0ecrPu7BnoI1zlAaleQ">Youtube<a>
-- <a href="https://www.reddit.com/user/Ashdubh_2nd">Reddit<a>
+- Reddit(Temporarily Removed)
 - <a href="https://www.twitch.tv/AshOnDiscord">Twitch<a>
 
 
