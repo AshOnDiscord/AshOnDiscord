@@ -1,6 +1,6 @@
 # About
 Hi I'm @AshOnDiscord, I mainly go by Ash.  
-I am a coder(mainly front-end) who codes as a side-hobby as well as some graphic designs.
+I am a coder(mainly front-end) who codes as a side-hobby as well as some graphic designing.
 
 # Languages learned:
 - ### C++ (Beginner)
