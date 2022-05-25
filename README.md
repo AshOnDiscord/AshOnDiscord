@@ -4,19 +4,13 @@ I am a coder(mainly front-end) who codes as a side-hobby as well as some graphic
 
 # Languages learned:
 - ### C++ (Beginner)
-- ### <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="18" height="18"> C# (Beginner)
-
-- ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="18" height="18"> Python
-
+- ### C# (Beginner)
+- ### Python
 - ### Lua(Pico 8)
-
 - ### JavaScript
-
 - ### Java
-
-- ### <img src="https://u.cubeupload.com/AshOnDiscord/css3.png" width="18" height="18"> CSS
-
-- ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="18" height="18"> HTML
+- ### CSS
+- ### HTML
 
 # Technologies and Tools learned:
 - ### Tailwind CSS
@@ -24,10 +18,10 @@ I am a coder(mainly front-end) who codes as a side-hobby as well as some graphic
 - ### React (Beginner)
 
 # Contact
-- [Discord](HoverDontClick "Ash#4999")
-- <a href="https://www.youtube.com/channel/UC9ZG0ecrPu7BnoI1zlAaleQ">Youtube<a>
-- Reddit (Temporarily Removed)
-- <a href="https://www.twitch.tva/AshOnDiscord">Twitch<a>
+- #### [Discord](HoverDontClick "Ash#4999")
+- #### <a href="https://www.youtube.com/channel/UC9ZG0ecrPu7BnoI1zlAaleQ">Youtube<a>
+- #### Reddit (Temporarily Removed)
+- #### <a href="https://www.twitch.tva/AshOnDiscord">Twitch<a>
 
 
 # Stats
