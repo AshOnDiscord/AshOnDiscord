@@ -27,8 +27,9 @@ I am a coder(mainly front-end) who codes as a side-hobby as well as some graphic
 - [Discord](HoverDontClick "Ash#4999")
 - <a href="https://www.youtube.com/channel/UC9ZG0ecrPu7BnoI1zlAaleQ">Youtube<a>
 - Reddit (Temporarily Removed)
-- <a href="https://www.twitch.tv/AshOnDiscord">Twitch<a>
+- <a href="https://www.twitch.tva/AshOnDiscord">Twitch<a>
 
 
 # Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&count_private&hide_border&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&count_private&border_color=0d1117&theme=github_dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashondiscord&count_private&border_color=0d1117&theme=github_dark&show_icons=true&langs_count=10&layout=compact">
