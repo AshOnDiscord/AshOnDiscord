@@ -3,8 +3,8 @@ Hi I'm @AshOnDiscord, I mainly go by Ash.
 I am a coder(mainly front-end) who codes as a side-hobby as well as some graphic designing.
 
 # Languages learned:
-- ### C++ (Beginner)
-- ### C# (Beginner)
+- ### C++
+- ### C#
 - ### Python
 - ### Lua(Pico 8)
 - ### JavaScript
