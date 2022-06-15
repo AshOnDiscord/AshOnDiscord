@@ -1,1 +1,21 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600"><defs><linearGradient id="P" gradientUnits="userSpaceOnUse"/><linearGradient id="g1" x1="100.3" y1="39.5" x2="376.8" y2="507.1" href="#P"><stop stop-color="#fff"/><stop offset="1" stop-color="#f1e5fc"/></linearGradient><linearGradient id="g2" x1="120.1" y1="106.8" x2="567.5" y2="461.9" href="#P"><stop stop-color="#9013fe"/><stop offset="1" stop-color="#6610f2"/></linearGradient><filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-2.4492935982947064e-16" dy="4" stdDeviation="7.916666666666667" flood-color="#000000" flood-opacity=".1"/></filter><linearGradient id="g3" x1="237.5" y1="205.7" x2="337.5" y2="374.9" href="#P"><stop stop-color="#fff"/><stop offset="1" stop-color="#f1e5fc"/></linearGradient></defs><style>.a{fill:url(#g1);stroke:#fff}.b{fill:url(#g2)}.c{filter:url(#f1);fill:url(#g3);stroke:#fff}</style><path class="a" d="m0 0h600v600h-600z"/><path class="b" d="m100.5 149.3c-1-27.7 20.6-53.3 49.8-53.3h299.4c29.2 0 50.8 25.6 49.9 53.3-1 26.7 0.2 61.2 8.9 89.3 8.7 28.3 23.4 46.1 47.5 48.4v26c-24.1 2.3-38.8 20.1-47.5 48.4-8.7 28.1-9.9 62.6-8.9 89.3 0.9 27.7-20.7 53.3-49.9 53.3h-299.4c-29.2 0-50.8-25.6-49.8-53.3 0.9-26.7-0.3-61.2-9-89.3-8.7-28.3-23.4-46.1-47.5-48.4v-26c24.1-2.3 38.8-20.1 47.5-48.4 8.7-28.1 9.9-62.6 9-89.3z"/><path fill-rule="evenodd" class="c" d="m221.9 408.5v-217h88.7c39.5 0 65.4 21.3 65.4 54.1 0 23-17.4 43.6-39.6 47.2v1.2c30.2 3.3 50.5 24.2 50.5 53.1 0 38.2-28.5 61.4-75.8 61.4zm34.5-124.7h38.7c29.9 0 46.4-12 46.4-33.5 0-20.2-14.2-31.3-39.2-31.3h-45.9zm47.6 97.1c31.1 0 47.6-12.5 47.6-35.9 0-23.5-16.9-35.5-49.6-35.5h-45.6v71.4z"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="256" height="256">
+  <defs>
+    <linearGradient id="P" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="g1" x1="100.3" y1="39.5" x2="376.8" y2="507.1" href="#P">
+      <stop stop-color="#fff"/><stop offset="1" stop-color="#f1e5fc"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="120.1" y1="106.8" x2="567.5" y2="461.9" href="#P">
+      <stop stop-color="#9013fe"/><stop offset="1" stop-color="#6610f2"/>
+    </linearGradient>
+    <filter x="-50%" y="-50%" width="200%" height="200%" id="f1" >
+    <feDropShadow dx="-2.4492935982947064e-16" dy="4" stdDeviation="7.916666666666667" flood-color="#000000" flood-opacity=".1"/>
+    </filter>
+    <linearGradient id="g3" x1="237.5" y1="205.7" x2="337.5" y2="374.9" href="#P">
+      <stop stop-color="#fff"/><stop offset="1" stop-color="#f1e5fc"/>
+    </linearGradient>
+  </defs>
+  <style>.a{fill:url(#g1);stroke:#fff}.b{fill:url(#g2)}.c{filter:url(#f1);fill:url(#g3);stroke:#fff}</style>
+  <path class="a" d="m0 0h600v600h-600z"/>
+  <path class="b" d="m100.5 149.3c-1-27.7 20.6-53.3 49.8-53.3h299.4c29.2 0 50.8 25.6 49.9 53.3-1 26.7 0.2 61.2 8.9 89.3 8.7 28.3 23.4 46.1 47.5 48.4v26c-24.1 2.3-38.8 20.1-47.5 48.4-8.7 28.1-9.9 62.6-8.9 89.3 0.9 27.7-20.7 53.3-49.9 53.3h-299.4c-29.2 0-50.8-25.6-49.8-53.3 0.9-26.7-0.3-61.2-9-89.3-8.7-28.3-23.4-46.1-47.5-48.4v-26c24.1-2.3 38.8-20.1 47.5-48.4 8.7-28.1 9.9-62.6 9-89.3z"/>
+  <path fill-rule="evenodd" class="c" d="m221.9 408.5v-217h88.7c39.5 0 65.4 21.3 65.4 54.1 0 23-17.4 43.6-39.6 47.2v1.2c30.2 3.3 50.5 24.2 50.5 53.1 0 38.2-28.5 61.4-75.8 61.4zm34.5-124.7h38.7c29.9 0 46.4-12 46.4-33.5 0-20.2-14.2-31.3-39.2-31.3h-45.9zm47.6 97.1c31.1 0 47.6-12.5 47.6-35.9 0-23.5-16.9-35.5-49.6-35.5h-45.6v71.4z"/>
+</svg>
