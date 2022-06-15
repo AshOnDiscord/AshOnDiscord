@@ -73,8 +73,8 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
   <li>
     <a href="https://www.twitch.tva/AshOnDiscord">Twitch<a>
   </li>
-</ul>
-
+</ul
+    
 # Stats
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
