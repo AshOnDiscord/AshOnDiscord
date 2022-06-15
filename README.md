@@ -11,7 +11,7 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
 
 # Languages
 
-<section style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr); gap: 1rem;">
+<div style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr); gap: 1rem;">
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" title="JavaScript/EcmaScript">
     <img src="./images/js-logo.svg" style="background: #323330">
   </a>
@@ -42,7 +42,7 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
   <a href="https://www.python.org/" title="Python">
     <img style="background:#ffffff" src="images/python-logo.svg">
   </a>
-</section>
+</div>
 
 # Tools
 
