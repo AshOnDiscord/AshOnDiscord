@@ -3,8 +3,6 @@
 Hi I'm @AshOnDiscord, I mainly go by Ash.  
 I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well as some graphic designing.
 
-# Languages
-
 <style>
   section a, section img {
     border-radius: 1rem;
