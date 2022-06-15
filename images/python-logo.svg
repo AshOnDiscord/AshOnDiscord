@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="1500" height="1500">
+	<title>python-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="29.6" y1="29.6" x2="84.2" y2="84.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#387eb8"/>
+			<stop offset="1" stop-color="#366994"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="63.2" y1="64.5" x2="121.8" y2="120.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffe052"/>
+			<stop offset="1" stop-color="#ffc331"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="layer1">
+		<g id="g1894">
+			<path id="path8615" fill-rule="evenodd" class="s0" d="m100.8 34.7c0 0 0 9.5 0 24.2 0 14.6-14.9 14.4-14.9 14.4 0 0-10.6 0-26.5 0-15.9 0-15.4 15.6-15.4 15.6v13.2h-9.3c0 0-15.7 1-15.7-27.3 0-28.3 17.9-26.3 17.9-26.3h37.4v-3.8h-26.7l-0.1-12.5c0 0-1.7-12.2 26.3-12.2 29.3 0 27 14.7 27 14.7zm-46.5-1.4c0 2.6 2.1 4.8 4.8 4.8 2.6 0 4.8-2.2 4.8-4.8 0-2.7-2.2-4.8-4.8-4.8-2.7 0-4.9 2.1-4.8 4.8z"/>
+			<path id="path8620" fill-rule="evenodd" class="s1" d="m47.6 115.2c0 0 0-9.6 0-24.2 0-14.7 14.9-14.4 14.9-14.4 0 0 10.6 0 26.5 0 15.9 0 15.4-15.7 15.4-15.7v-13.1h9.4c0 0 15.6-1 15.6 27.3 0 28.2-17.9 26.2-17.9 26.2h-37.4v3.8h26.8v12.6c0 0 1.7 12.1-26.3 12.1-29.3 0-27-14.6-27-14.6zm46.6 1.4c0-2.7-2.2-4.8-4.8-4.8-2.7 0-4.9 2.1-4.9 4.8 0 2.6 2.2 4.8 4.9 4.8 2.6 0 4.8-2.2 4.8-4.8z"/>
+		</g>
+	</g>
+</svg>

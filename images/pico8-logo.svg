@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="1200" height="1200">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #ffec27 } 
+		.s1 { fill: #00e436 } 
+		.s2 { fill: #29adff } 
+		.s3 { fill: #83769c } 
+		.s4 { fill: #ff77a8 } 
+		.s5 { fill: #ffccaa } 
+		.s6 { fill: #ff004d } 
+		.s7 { fill: #ffa300 } 
+	</style>
+	<path id="Shape 1" class="s0" d="m1 5h2v2h-2z"/>
+	<path id="Shape 2" class="s1" d="m3 7h2v2h-2z"/>
+	<path id="Shape 3" class="s2" d="m5 9h2v2h-2z"/>
+	<path id="Shape 4" class="s3" d="m7 7h2v2h-2z"/>
+	<path id="Shape 5" class="s4" d="m9 5h2v2h-2z"/>
+	<path id="Shape 6" class="s5" d="m7 3h2v2h-2z"/>
+	<path id="Shape 7" class="s6" d="m5 1h2v2h-2z"/>
+	<path id="Shape 8" class="s7" d="m3 3h2v2h-2z"/>
+</svg>
