@@ -9,6 +9,8 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
   }
 </style>
 
+# Languages
+
 <section style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr); gap: 1rem;">
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" title="JavaScript/EcmaScript">
     <img src="./images/js-logo.svg" style="background: #323330">
