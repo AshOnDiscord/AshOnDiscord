@@ -58,7 +58,7 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
     <img style="background: #FFFFFF; border-radius: 0.75rem;" src="./images/unity-logo.svg">
   </a>
   <a href="https://discord.js.org/#/" title="DiscordJs">
-    <img style="background: #FFFFFF; aspect-ratio: 1/1; border-radius: 0.75rem;" width="100%" src="https://discordjs.guide/favicon.png">
+    <img style="background: #FFFFFF; aspect-ratio: 1/1; border-radius: 0.75rem;" width="100%" src="./images/discordjs-logo.svg">
   </a>
 </section>
 
