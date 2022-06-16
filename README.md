@@ -5,37 +5,37 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
 
 # Languages
 
-<div style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr); gap: 1rem;">
+<div style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr);">
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" title="JavaScript/EcmaScript">
     <img src="./images/js-logo.svg" style="background: #323330; border-radius: 0.75rem;">
-  </a>
+  </a> 
   <a href="https://nodejs.org/en/" title="Node JS">
     <img style="background: rgb(10,10,10); border-radius: 0.75rem;" src="images/nodejs-logo.svg">
-  </a>
+  </a> 
   <a href="https://www.typescriptlang.org/" title="TypeScript">
     <img src="images/ts-logo.svg" style="border-radius: 0.75rem;">
-  </a>
+  </a> 
   <a href="http://www.ecmascript.org/z" title="Pico8(Lua)">
     <img  style="background:white; border-radius: 0.75rem;" src="images/pico8-logo.svg">
-  </a>
+  </a> 
   <a href="https://dotnet.microsoft.com/en-us/" title="C#">
     <img style="background:#c26fe9; border-radius: 0.75rem;" src="images/cs-logo.svg">
-  </a>
+  </a> 
   <a href="https://cplusplus.com/" title="C++">
     <img style="background:#c26fe9; border-radius: 0.75rem;" src="images/cpp-logo.svg">
-  </a>
+  </a> 
   <a href="https://cplusplus.com/" title="Java">
     <img style="background:#ffffff; border-radius: 0.75rem;" src="images/java-logo.svg">
-  </a>
+  </a> 
   <a href="https://www.w3.org/html/" title="HTML5">
     <img style="background:#ffffff; border-radius: 0.75rem;" src="images/html-logo.svg">
-  </a>
+  </a> 
   <a href="https://www.w3.org/Style/CSS/" title="CSS3">
     <img style="background:#ffffff; border-radius: 0.75rem;" src="images/css-logo.svg">
-  </a>
+  </a> 
   <a href="https://www.python.org/" title="Python" style="border-radius: 0.75rem;">
     <img style="background:#ffffff; border-radius: 0.75rem;" src="images/python-logo.svg">
-  </a>
+  </a> 
 </div>
 
 # Tools
@@ -43,19 +43,19 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
 <section style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr); gap: 1rem;">
   <a href="https://tailwindcss.com/" title="TailwindCss">
     <img style="background: #0F172A; border-radius: 0.75rem;" src="./images/tailwindcss-logo.svg">
-  </a>
+  </a> 
   <a href="https://getbootstrap.com/" title="Bootstrap">
     <img style="background: #0F172A; border-radius: 0.75rem;" src="./images/bootstrap-logo.svg">
-  </a>
+  </a> 
   <a href="https://www.cloudflare.com/" title="Cloudflare">
     <img style="background: #FFFFFF; border-radius: 0.75rem;" src="./images/cloudflare-logo.svg">
-  </a>
+  </a> 
   <a href="https://unity.com/" title="Unity">
     <img style="background: #FFFFFF; border-radius: 0.75rem;" src="./images/unity-logo.svg">
-  </a>
+  </a> 
   <a href="https://discord.js.org/#/" title="DiscordJs">
     <img style="background: #FFFFFF; border-radius: 0.75rem;" src="./images/discordjs-logo.svg">
-  </a>
+  </a> 
 </section>
 
 # Contact
