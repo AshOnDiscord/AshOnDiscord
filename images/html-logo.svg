@@ -1,8 +1,15 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="64" height="64">
-  <style>.a{fill:#fb7c3d}.b{fill:#e34f26}.c{fill:#ef652a}.d{fill:#ebebeb}.e{fill:#fff}</style>
-  <path class="a" d="m0 0h600v600h-600z"/>
-  <path class="b" d="m115 504l-41-460h451l-41 460-185 52"/>
-  <path class="c" d="m300 81h184l-35 394-149 41"/>
-  <path class="d" d="m300 309h-127l-14-156-1-15h141 1v56h-80l5 58h75zm0 149h-1l-116-32-7-89h26 30l4 45 63 17h1z"/>
-  <path class="e" d="m415 252h16l-2 15-13 149-1 10-116 32v-59l63-17 7-73h-70v-57zm26-114l-1 15-3 29-1 12h-137v-21-35z"/>
+	<title>html-logo-svg</title>
+	<style>
+		.s0 { fill: #fb7c3d } 
+		.s1 { fill: #e34f26 } 
+		.s2 { fill: #ef652a } 
+		.s3 { fill: #ebebeb } 
+		.s4 { fill: #ffffff } 
+	</style>
+	<rect id="Shape 1" class="s0" width="600" height="600" rx="87"></rect>
+	<path id="Layer" class="s1" d="m115 504l-41-460h451l-41 460-185 52"/>
+	<path id="Layer" class="s2" d="m300 81h184l-35 394-149 41"/>
+	<path id="Layer" class="s3" d="m300 309h-127l-14-156-1-15h141 1v56h-80l5 58h75zm0 149h-1l-116-32-7-89h26 30l4 45 63 17h1z"/>
+	<path id="Layer" class="s4" d="m415 252h16l-2 15-13 149-1 10-116 32v-59l63-17 7-73h-70v-57zm26-114l-1 15-3 29-1 12h-137v-21-35z"/>
 </svg>

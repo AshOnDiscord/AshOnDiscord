@@ -1,21 +1,23 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="64" height="64">
-	<title>New Project</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 960" width="64" height="64">
+	<title>pico8-logo-svg</title>
 	<style>
-		.s0 { fill: #ffec27 } 
-		.s1 { fill: #00e436 } 
-		.s2 { fill: #29adff } 
-		.s3 { fill: #83769c } 
-		.s4 { fill: #ff77a8 } 
-		.s5 { fill: #ffccaa } 
-		.s6 { fill: #ff004d } 
-		.s7 { fill: #ffa300 } 
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #ffec27 } 
+		.s2 { fill: #00e436 } 
+		.s3 { fill: #29adff } 
+		.s4 { fill: #83769c } 
+		.s5 { fill: #ff77a8 } 
+		.s6 { fill: #ffccaa } 
+		.s7 { fill: #ff004d } 
+		.s8 { fill: #ffa300 } 
 	</style>
-	<path id="Shape 1" class="s0" d="m1 5h2v2h-2z"/>
-	<path id="Shape 2" class="s1" d="m3 7h2v2h-2z"/>
-	<path id="Shape 3" class="s2" d="m5 9h2v2h-2z"/>
-	<path id="Shape 4" class="s3" d="m7 7h2v2h-2z"/>
-	<path id="Shape 5" class="s4" d="m9 5h2v2h-2z"/>
-	<path id="Shape 6" class="s5" d="m7 3h2v2h-2z"/>
-	<path id="Shape 7" class="s6" d="m5 1h2v2h-2z"/>
-	<path id="Shape 8" class="s7" d="m3 3h2v2h-2z"/>
+	<rect id="Shape 9" class="s0" width="960" height="960" rx="139"></rect>
+	<path id="Shape 1" class="s1" d="m80 400h160v160h-160z"/>
+	<path id="Shape 2" class="s2" d="m240 560h160v160h-160z"/>
+	<path id="Shape 3" class="s3" d="m400 720h160v160h-160z"/>
+	<path id="Shape 4" class="s4" d="m560 560h160v160h-160z"/>
+	<path id="Shape 5" class="s5" d="m720 400h160v160h-160z"/>
+	<path id="Shape 6" class="s6" d="m560 240h160v160h-160z"/>
+	<path id="Shape 7" class="s7" d="m400 80h160v160h-160z"/>
+	<path id="Shape 8" class="s8" d="m240 240h160v160h-160z"/>
 </svg>
