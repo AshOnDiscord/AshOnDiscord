@@ -55,7 +55,10 @@ I am a programmer, mainly web-dev(front-end), who codes as a side-hobby as well 
   </a> 
   <a href="https://discord.js.org/#/" title="DiscordJs">
     <img style="background: #FFFFFF; border-radius: 0.75rem;" src="./images/discordjs-logo.svg">
-  </a> 
+  </a>
+  <a>Vue.js</a>
+  
+  [comment]: # (Add Vue Icon)
 </section>
 
 # Contact
