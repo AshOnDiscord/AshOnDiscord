@@ -15,7 +15,7 @@ I am a programmer who does mainly (fullstack) web development, who codes as a si
   <a href="https://www.typescriptlang.org/" title="TypeScript">
     <img src="images/ts-logo.svg" style="border-radius: 0.75rem;">
   </a> 
-  <a href="http://www.ecmascript.org/z" title="Pico8(Lua)">
+  <a href="https://www.lexaloffle.com/pico-8.php" title="Pico8(Lua)">
     <img  style="background:white; border-radius: 0.75rem;" src="images/pico8-logo.svg">
   </a> 
   <a href="https://dotnet.microsoft.com/en-us/" title="C#">
@@ -24,7 +24,7 @@ I am a programmer who does mainly (fullstack) web development, who codes as a si
   <a href="https://cplusplus.com/" title="C++">
     <img style="background:#c26fe9; border-radius: 0.75rem;" src="images/cpp-logo.svg">
   </a> 
-  <a href="https://cplusplus.com/" title="Java">
+  <a href="https://www.java.com/en/" title="Java">
     <img style="background:#ffffff; border-radius: 0.75rem;" src="images/java-logo.svg">
   </a> 
   <a href="https://www.w3.org/html/" title="HTML5">
@@ -38,7 +38,7 @@ I am a programmer who does mainly (fullstack) web development, who codes as a si
   </a> 
 </div>
 
-# Tools
+# Tools/Frameworks
 
 <section style="padding: 0 1rem;display:grid; grid-template-columns: repeat(10, 1fr); gap: 1rem;">
   <a href="https://tailwindcss.com/" title="TailwindCss">
