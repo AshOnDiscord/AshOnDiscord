@@ -74,7 +74,7 @@ I am a programmer who does mainly (fullstack) web development, who codes as a si
     <a title="Temporarily Removed">Reddit<a>
   </li>
   <li>
-    <a href="https://www.twitch.tva/AshOnDiscord">Twitch<a>
+    <a href="https://www.twitch.tv/AshOnDiscord">Twitch<a>
   </li>
 </ul
     
