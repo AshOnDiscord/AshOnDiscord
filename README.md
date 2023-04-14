@@ -12,7 +12,10 @@ Intel i5-8250U (8) @ 3.400GHz, 8 GB of 2400MHz ram, 128 GB ssd
 Windows/EndeavourOS  
 Intel Pentium G4400T, 8GB of ram, 900 GB of usuable hard drive.
 
-## Vercel GH Stats
+## Contact
+DM/Add me at `ASH#4999` on discord
+
+## Stats
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
   <img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&count_private&border_color=0d1117&theme=github_dark&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashondiscord&count_private&border_color=0d1117&theme=github_dark&show_icons=true&langs_count=10&layout=compact">
