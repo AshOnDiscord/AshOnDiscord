@@ -6,7 +6,7 @@ Preferred stack - TailwindCSS | VueJS w/ Composition Api and TS | Firebase/SQLit
 
 ## Setup
 ### Laptop:
-Windows(170 GB)/Arch Linux(via archinstall, 80 GB)  
+Windows(110 GB)/Arch Linux(via archinstall, 140 GB)  
 Intel i5-8250U (8) @ 3.400GHz, 8 GB of 2400MHz ram, 128 GB ssd
 ### AIO:
 Windows/EndeavourOS  
