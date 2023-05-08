@@ -1,7 +1,7 @@
 # About
 
 Hi, I'm @AshOnDiscord, I mainly go by Ash.  
-I am a fullstack webdev who occassionally messes around with other things(such as minecraft modding, etc).  
+I am a fullstack webdev who occassionally messes around with other things(such as [minecraft modding](https://github.com/AshOnDiscord/AshOnDiscord-HUD), etc).  
 Preferred stack - TailwindCSS | VueJS w/ Composition Api and TS | Firebase/SQLite | Express w/ TS | Cloudflare + Replit/Vercel
 
 ## Setup
