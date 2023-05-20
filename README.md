@@ -1,5 +1,5 @@
 # About
-[https://prod.liveshare.vsengsaas.visualstudio.com/join?2B9F468E7954AE74C25C64B7E316C9B72451](https://prod.liveshare.vsengsaas.visualstudio.com/join?E03B42DF679058EE06152848CBD6019CA053)
+https://score-sponsored-oral-obligations.trycloudflare.com/
 Hi, I'm @AshOnDiscord, I mainly go by Ash.  
 I am a fullstack webdev who occassionally messes around with other things(such as [minecraft modding](https://github.com/AshOnDiscord/AshOnDiscord-HUD), etc).  
 Preferred stack - TailwindCSS | VueJS w/ Composition Api and TS | Firebase/SQLite | Express w/ TS | Cloudflare + Replit/Vercel
