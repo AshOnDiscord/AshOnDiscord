@@ -12,7 +12,7 @@ Windows/EndeavourOS  i3wm
 Intel Pentium G4400T, 8GB of ram, 900 GB of usuable hard drive.
 
 ## Contact
-DM/Add me at `@archwiki`(formerly `ASH#4999`) on discord
+DM me at `@archwiki`(formerly `ASH#4999`) on discord. You don't need to be added to message. And please https://nohello.net/en/ and https://dontasktoask.com.
 
 ## Stats
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
