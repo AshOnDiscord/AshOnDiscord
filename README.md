@@ -13,7 +13,7 @@ Intel Pentium G4400T, 8GB of ram, 900 GB of usuable hard drive.
 
 ## Contact
 DM me at `@archwiki`(formerly `ASH#4999`) on discord. You don't need to be added to message. 
-Also please follow [nohello.net](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com) if possible.
+Also please follow [nohello.net](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com) if possible. Makes my life easier and higher chance of me responding.
 
 ## Stats
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
