@@ -1,5 +1,5 @@
 # About
-Hi, I'm @AshOnDiscord, I mainly go by Ash. I'm currently just a hobbyist coder however I do plan on majoring in CS. I prefer full-stack web development but occasionally mess around with other stuff. On FTC team 8405 as a programmer. 
+Hi, I'm @AshOnDiscord, I mainly go by Ash. I'm currently just a hobbyist coder however I do plan on majoring in CS. I prefer full-stack web development but occasionally mess around with other stuff. On FTC team 8405 as a programmer.  
 Preferred tech stack - VueJS (composition API & TS) w/ TailwindCSS & HeadlessUI for the front end. BunJS (TS) w/ SQLite3 for the backend
 
 ## Setup
