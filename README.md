@@ -4,11 +4,11 @@ I am a fullstack webdev who occassionally messes around with other things(such a
 Preferred stack - TailwindCSS | VueJS w/ Composition Api and TS | Firebase/SQLite | Express w/ TS | Cloudflare + Replit/Vercel
 
 ## Setup
-### Laptop:
 AMD Framework 13 w/ Ryzen 7 7840U, 32GB DDR5 ram, & 1TB NVME SN850X SSD
+Dual boot Windows 11 (~165GB) & Arch w/ Hyprland & EWW(~730GB)
 
 ## Contact
-DM me at `@archwiki`(formerly `ASH#4999`) on discord. You don't need to be added to message. 
+DM me at `@archwiki` on discord. You don't need to be added to message. 
 Also please follow [nohello.net](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com) if possible. Makes my life easier and higher chance of me responding.
 
 In the future there'll be a slightly better way if I don't forget.
