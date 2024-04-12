@@ -1,6 +1,5 @@
 # About
-Hi, I'm @AshOnDiscord, I mainly go by Ash.  
-I am a fullstack webdev who occassionally messes around with other things(such as [minecraft modding](https://github.com/AshOnDiscord/AshOnDiscord-HUD), etc).  
+Hi, I'm @AshOnDiscord, I mainly go by Ash. I'm currently just a hobbyist coder however I do plan on majoring in CS. I prefer full-stack web development, but I'll occasionally mess around with other stuff. On FTC team 8405 as a programmer. 
 Preferred stack - TailwindCSS | VueJS w/ Composition Api and TS | Firebase/SQLite | Express w/ TS | Cloudflare + Replit/Vercel
 
 ## Setup
@@ -8,10 +7,8 @@ AMD Framework 13 w/ Ryzen 7 7840U, 32GB DDR5 ram, & 1TB NVME SN850X SSD
 Dual boot Windows 11 (~165GB) & Arch w/ Hyprland & EWW(~730GB)
 
 ## Contact
-DM me at `@archwiki` on discord. You don't need to be added to message. 
-Also please follow [nohello.net](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com) if possible. Makes my life easier and higher chance of me responding.
+DM me at `@archwiki` on Discord. You don't need to be added to message me, but please follow [nohello.net](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com) if possible. Makes my life easier and there's a higher chance of receiving a response.
 
-In the future there'll be a slightly better way if I don't forget.
 ## Stats
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
   <img src="https://github-readme-stats.vercel.app/api?username=ashondiscord&count_private&border_color=0d1117&theme=github_dark&show_icons=true">
