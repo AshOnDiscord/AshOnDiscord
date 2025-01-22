@@ -4,8 +4,8 @@ Hi, I'm @AshOnDiscord, I mainly go by Ash. I'm currently just a hobbyist coder b
 Preferred tech stack - VueJS (composition API & TS) w/ TailwindCSS & HeadlessUI for the front end. BunJS (TS) w/ SQLite3 for the backend
 
 ## Setup
-AMD Framework 13 w/ Ryzen 7 7840U, 32GB DDR5 ram, & 1TB NVME SN850X SSD
-Dual boot Windows 11 & NixOS w/ Hyprland & EWW
+AMD Framework 13 w/ Ryzen 7 7840U, 32GB DDR5 ram, & 1TB NVME SN850X SSD  
+Dual boot NixOS w/ Hyprland & EWW & Windows 11
 
 ## Contact
 DM me on Discord at `@archwiki`. You don't need to be added to message me, but please follow [nohello.net](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com) if possible. It makes my life easier and there's a higher chance of you receiving a response.
