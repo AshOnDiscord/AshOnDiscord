@@ -1,5 +1,6 @@
 # About
 Hi, I'm @AshOnDiscord, I mainly go by Ash. Former full-stack developer & FTC team 23650 programmer.
+Haven't been able to work on too many projects lately, but maybe I'll resume soon (and maybe I even actually finish a HackClub Project 👀)
 
 ## Setup
 AMD Framework 13 w/ Ryzen 7 7840U, 32GB DDR5 ram, & 1TB NVME SN850X SSD  
