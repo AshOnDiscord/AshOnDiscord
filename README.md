@@ -7,7 +7,7 @@ AMD Framework 13 w/ Ryzen 7 7840U, 32GB DDR5 ram, & 1TB NVME SN850X SSD
 Dual boot NixOS w/ Hyprland & QuickShell + Windows 11
 
 ## Contact
-Discord is `@archwiki`. Unfortunately, since Discord is annoying, shoot me an email at `ashondiscord` \ `@` \ `proton.me`, with the reason you're contacting me. Please follow [nohello.net/en](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com/) to maximize the chances I'll reach back out. Do ***not*** directly attempt to message or add me on Discord; I generally do not accept friend requests unless I actually know you well enough, and your message/friend request is probably also just going to get lost in the sea of spam.
+Discord is `@archwiki`. Unfortunately, since Discord is annoying, shoot me an email at `ashondiscord` \ `@` \ `proton.me`, with the reason you're contacting me alongside your Discord. Please follow [nohello.net/en](https://nohello.net/en/) and [dontasktoask.com](https://dontasktoask.com/) to maximize the chances I'll reach back out. From there, I'll probably temporarily add you so we can chat. Do ***not*** directly attempt to message or add me on Discord; I generally do not accept friend requests unless I actually know you well enough, and your message/friend request is probably also just going to get lost in the sea of spam.
 
 ## Stats
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
